@@ -1,6 +1,6 @@
 /*
   CoffeeBot
-  Reads an analog input on pin 0, converts it to coffee amount, 
+  Reads an analog input on pin 0, converts it to gauge amount, 
   prints the result to the serial monitor and also sends
   it to a Xively feed.
   
